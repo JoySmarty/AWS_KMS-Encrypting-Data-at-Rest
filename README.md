@@ -51,7 +51,7 @@ In this lab, I explored how to protect sensitive data stored in AWS resources us
 - AWS CloudTrail → Logged all encryption/decryption operations
 
 
-#🧠 Key Learning Outcomes
+# 🧠 Key Learning Outcomes
 
 - Understand AWS encryption mechanisms and KMS integration.
 
