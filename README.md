@@ -80,6 +80,9 @@ In this lab, I explored how to protect sensitive data stored in AWS resources us
 # 🧩 Lab Source: AWS Academy Guided Lab — Encrypting Data at Rest by Using AWS Encryption Options
 
 # 👩🏽‍💻 Completed by: Joy Imarah
+# Medium Article → https://medium.com/@smartyjoy47/title-encrypting-data-at-rest-on-aws-hands-on-with-s3-ebs-and-kms-463edc5bf57c
+
+# LinkedIn →
 
 
 
