@@ -82,7 +82,7 @@ In this lab, I explored how to protect sensitive data stored in AWS resources us
 # 👩🏽‍💻 Completed by: Joy Imarah
 # Medium Article → https://medium.com/@smartyjoy47/title-encrypting-data-at-rest-on-aws-hands-on-with-s3-ebs-and-kms-463edc5bf57c
 
-# LinkedIn →
+# LinkedIn → https://www.linkedin.com/posts/joy-imarah-382b06260_aws-alx-dohardthings-activity-7385293586046554113-dSfN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEA8bpIBN6PrvJ7F9wTez0kV-wK3Cayq8J4
 
 
 
